@@ -3,3 +3,5 @@ var meals = {
   lunch: 'burrito',
   dinner: 'steak'
 }
+
+var playlist = { name = '', song = ''}
